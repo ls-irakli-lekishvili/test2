@@ -1,0 +1,83 @@
+{
+	"textures": [
+		{
+			"image": "juices.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 407,
+				"h": 135
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "orange-juice.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 134,
+						"h": 133
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 134,
+						"h": 133
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 134,
+						"h": 133
+					}
+				},
+				{
+					"filename": "red-juice.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 134,
+						"h": 133
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 134,
+						"h": 133
+					},
+					"frame": {
+						"x": 137,
+						"y": 1,
+						"w": 134,
+						"h": 133
+					}
+				},
+				{
+					"filename": "green-juice.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 133,
+						"h": 133
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 133,
+						"h": 133
+					},
+					"frame": {
+						"x": 273,
+						"y": 1,
+						"w": 133,
+						"h": 133
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:4afb8ec4d96134241af0ab2ea5e3f456:29f3d5bd102e01a7853c15efde880d3e:aca6d28f0fcca8817904711f3669e327$"
+	}
+}

@@ -1,0 +1,41 @@
+{
+	"textures": [
+		{
+			"image": "flash.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 360,
+				"h": 22
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "flash.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 358,
+						"h": 20
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 358,
+						"h": 20
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 358,
+						"h": 20
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:95e6ec939870f75b2cc332247cc8887a:be83590dd76032ef3f10b6d722474373:1b7eb8c241b9e490e3e7e1d35ac03eb4$"
+	}
+}
